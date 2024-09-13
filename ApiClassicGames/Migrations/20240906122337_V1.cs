@@ -35,5 +35,7 @@ namespace ApiClassicGames.Migrations
             migrationBuilder.DropTable(
                 name: "ClassicGames");
         }
+
+        
     }
 }
